@@ -1,2 +1,5 @@
 # Task-Master
-A flask based CRUD application
+A flask based Todo **CRUD** application
+![](https://i.imgur.com/gDcrUoY.png)
+---
+![](https://i.imgur.com/CAhYiTR.png)
